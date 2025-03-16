@@ -2,4 +2,4 @@
 logs
 sa-env
 seo_rankings.db
-_pycache_
+__pycache__
